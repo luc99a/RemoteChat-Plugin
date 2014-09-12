@@ -1,0 +1,8 @@
+#Remote Chat Config
+
+#port on which the server will be listening
+port: 2112
+
+#server credentials to send messages, modify this please
+username: RemoteChat
+password: RemoteChat
